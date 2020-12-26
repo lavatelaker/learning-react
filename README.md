@@ -1,2 +1,2 @@
 # learning-react
-this is for learning react
+This is for learning react
